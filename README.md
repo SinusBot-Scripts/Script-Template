@@ -10,6 +10,8 @@ Script Description.
 
 ## TODO
 
+#### Write Catra~Chan#0001 on Discord that you want to be part of the scripting team here
+
 #### Replace the `script-name.js` with your script.
 
 #### Replace `script-name` and the description.
@@ -17,3 +19,5 @@ Script Description.
 ##### Replace in:
 - README.md
 - package.json
+
+#### Publish your repo
