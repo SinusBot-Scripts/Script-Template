@@ -1,0 +1,20 @@
+node_modules/
+.vscode
+
+# ignore built-in scripts
+command.js
+advertising.js
+alonemode.js
+bookmark.js
+followme.js
+norecording.js
+rememberChannel.js
+welcome.js
+sinusbot-commands.js
+
+# ignore test stuff
+dev.js
+dev.js.disabled
+
+playlist-manager/
+playlist-manager.js

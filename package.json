@@ -1,0 +1,22 @@
+{
+  "name": "@sinusbot-scripts/script-name",
+  "version": "1.0.0",
+  "description": "Script description.",
+  "main": "script-name.js",
+  "scripts": {
+    "test": "node dummy-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinusbot-scripts/script-name.git"
+  },
+  "author": "SinusBot Contributors <sinusbot-contributors@aitsys.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinusbot-scripts/script-name/issues"
+  },
+  "homepage": "https://github.com/sinusbot-scripts/script-name#readme",
+  "devDependencies": {
+    "sinusbot-scripting-engine": "^1.0.18"
+  }
+}
