@@ -10,7 +10,7 @@ Script Description.
 
 ## TODO
 
-#### Write Catra~Chan#0001 on Discord that you want to be part of the scripting team here
+#### Write Catra#9999 on Discord that you want to be part of the scripting team here
 
 #### Replace the `script-name.js` with your script.
 
